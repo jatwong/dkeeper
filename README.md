@@ -6,6 +6,6 @@ We bring this note keeping project to the ICP blockchain to manage our notes.
 
 ## Screenshots
 
-Design by Angela.
+Design by Angela. I am responsible for the backend process and some minor UX updates.
 
 ![DKeeper homepage view with notes](./keeper.png)
